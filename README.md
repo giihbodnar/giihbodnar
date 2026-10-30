@@ -11,7 +11,7 @@ Minha trajetória acadêmica é voltada à área de Tecnologia da Informação, 
 ## Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** — Centro Universitário Uniftec | Em andamento
-- **Técnico em Informática** — Formação técnica integrada ao Ensino Médio | Concluído
+- **Técnico em Informática** — QI | Concluído
 
 ## Conhecimentos Técnicos
 
