@@ -1,16 +1,34 @@
-## Hi there 👋
+[Português](README.md) | [English](README.en.md)
 
-<!--
-**giihbodnar/giihbodnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Giovanna Bodnar
 
-Here are some ideas to get you started:
+**Estudante de Análise e Desenvolvimento de Sistemas | Técnica em Informática**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática realizada durante o Ensino Médio.
+
+Minha trajetória acadêmica é voltada à área de Tecnologia da Informação, com conhecimentos adquiridos ao longo da formação técnica e atualmente aprofundados na graduação.
+
+## Formação Acadêmica
+
+- **Análise e Desenvolvimento de Sistemas** — Centro Universitário Uniftec | Em andamento
+- **Técnico em Informática** — Formação técnica integrada ao Ensino Médio | Concluído
+
+## Conhecimentos Técnicos
+
+- **Programação:** C#
+- **Desenvolvimento Web:** HTML, CSS e JavaScript
+- **Ferramentas e Tecnologias:** Git e GitHub
+
+*Conhecimentos desenvolvidos durante a formação acadêmica e em constante aperfeiçoamento.*
+
+## Projetos e Estudos
+
+Este perfil reúne projetos acadêmicos, atividades práticas e estudos realizados ao longo da minha formação em Tecnologia da Informação.
+
+Os repositórios têm como objetivo documentar minha evolução técnica, apresentar os conhecimentos adquiridos e demonstrar sua aplicação no desenvolvimento de soluções.
+
+## Objetivo Profissional
+
+Construir uma trajetória profissional na área de Tecnologia da Informação, explorando diferentes possibilidades de atuação e ampliando continuamente meus conhecimentos técnicos e práticos.
+
+Busco desenvolver novas competências, contribuir para projetos e soluções tecnológicas e adquirir experiências que favoreçam meu crescimento e desenvolvimento profissional.
