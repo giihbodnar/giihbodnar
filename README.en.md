@@ -4,28 +4,31 @@
 
 **Systems Analysis and Development Student | IT Technician**
 
-I am studying Systems Analysis and Development at Centro Universitário Uniftec and hold a technical qualification in Information Technology from QI. I am expanding my software development knowledge through coursework, practical exercises, and personal and academic projects.
+I am currently studying Systems Analysis and Development and have a technical qualification in Information Technology, completed alongside my high school education.
+
+My academic background is focused on Information Technology, building upon the knowledge acquired during my technical education and further developed throughout my undergraduate studies.
 
 ## Education
 
 - **Systems Analysis and Development** — Centro Universitário Uniftec | In progress
-- **Information Technology Technician** — QI | Completed
+- **IT Technician** — QI | Completed
 
-## Technologies I am learning
+## Technical Knowledge
 
-- **Programming:** C# and Java
-- **Web development:** HTML, CSS, and JavaScript
-- **Automated testing:** Selenium WebDriver and JUnit (academic exercises)
-- **Tools:** Git, GitHub, and Maven
+- **Programming:** C#
+- **Web Development:** HTML, CSS and JavaScript
+- **Tools and Technologies:** Git and GitHub
 
-*Skills currently being developed through academic study and hands-on practice.*
+*Knowledge acquired through academic education and continuously being developed.*
 
-## Projects
+## Projects and Studies
 
-I am developing and selecting current projects to showcase here. My goal is to highlight working, well-documented projects that reflect my practical abilities.
+This profile brings together academic projects, practical activities and studies completed throughout my education in Information Technology.
 
-Other repositories remain available on my GitHub as records of studies and coursework from different stages of my education.
+The repositories aim to document my learning progress, showcase the knowledge I have acquired and demonstrate its application in developing solutions.
 
-## Career objective
+## Professional Objective
 
-I aim to build a career in Information Technology, strengthen my practical software development experience, and contribute to projects where I can learn, collaborate, and apply my knowledge.
+To build a professional career in Information Technology by exploring different areas of specialization and continuously expanding my technical and practical knowledge.
+
+I aim to develop new skills, contribute to technology projects and solutions, and gain experience that supports my professional growth and development.

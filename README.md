@@ -4,28 +4,31 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Técnica em Informática**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Uniftec e tenho formação técnica em Informática pela QI. Estou aprofundando meus conhecimentos em desenvolvimento de software por meio da graduação, de exercícios práticos e de projetos pessoais e acadêmicos.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática realizada durante o Ensino Médio.
 
-## Formação
+Minha trajetória acadêmica é voltada à área de Tecnologia da Informação, com conhecimentos adquiridos ao longo da formação técnica e atualmente aprofundados na graduação.
+
+## Formação Acadêmica
 
 - **Análise e Desenvolvimento de Sistemas** — Centro Universitário Uniftec | Em andamento
 - **Técnico em Informática** — QI | Concluído
 
-## Tecnologias em estudo
+## Conhecimentos Técnicos
 
-- **Programação:** C# e Java
-- **Desenvolvimento web:** HTML, CSS e JavaScript
-- **Testes automatizados:** Selenium WebDriver e JUnit (exercícios acadêmicos)
-- **Ferramentas:** Git, GitHub e Maven
+- **Programação:** C#
+- **Desenvolvimento Web:** HTML, CSS e JavaScript
+- **Ferramentas e Tecnologias:** Git e GitHub
 
-*Conhecimentos em desenvolvimento, adquiridos durante a formação acadêmica e a prática.*
+*Conhecimentos desenvolvidos durante a formação acadêmica e em constante aperfeiçoamento.*
 
-## Projetos
+## Projetos e Estudos
 
-Estou desenvolvendo e selecionando projetos atuais para apresentar aqui. Quero destacar trabalhos que estejam funcionais, documentados e que representem minhas habilidades práticas.
+Este perfil reúne projetos acadêmicos, atividades práticas e estudos realizados ao longo da minha formação em Tecnologia da Informação.
 
-Os demais repositórios permanecem disponíveis no meu GitHub como registros de estudos e atividades de diferentes etapas da minha formação.
+Os repositórios têm como objetivo documentar minha evolução técnica, apresentar os conhecimentos adquiridos e demonstrar sua aplicação no desenvolvimento de soluções.
 
-## Objetivo profissional
+## Objetivo Profissional
 
-Quero construir minha trajetória profissional na área de Tecnologia da Informação, ampliar minha experiência prática em desenvolvimento de software e participar de projetos nos quais possa aprender, colaborar e aplicar os conhecimentos adquiridos.
+Construir uma trajetória profissional na área de Tecnologia da Informação, explorando diferentes possibilidades de atuação e ampliando continuamente meus conhecimentos técnicos e práticos.
+
+Busco desenvolver novas competências, contribuir para projetos e soluções tecnológicas e adquirir experiências que favoreçam meu crescimento e desenvolvimento profissional.
