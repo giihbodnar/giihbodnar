@@ -4,31 +4,40 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Técnica em Informática**
 
-Sou estudante de Análise e Desenvolvimento de Sistemas, com formação técnica em Informática realizada durante o Ensino Médio.
+Sou estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Uniftec e tenho formação técnica em Informática pela QI. Uso este espaço para reunir atividades acadêmicas, exercícios práticos e registros da minha evolução nos estudos de tecnologia.
 
-Minha trajetória acadêmica é voltada à área de Tecnologia da Informação, com conhecimentos adquiridos ao longo da formação técnica e atualmente aprofundados na graduação.
+Tenho interesse em desenvolvimento de software e sigo aprofundando meus conhecimentos por meio da graduação e da prática.
 
-## Formação Acadêmica
+## Formação
 
 - **Análise e Desenvolvimento de Sistemas** — Centro Universitário Uniftec | Em andamento
 - **Técnico em Informática** — QI | Concluído
 
-## Conhecimentos Técnicos
+## Tecnologias em estudo
 
-- **Programação:** C#
-- **Desenvolvimento Web:** HTML, CSS e JavaScript
-- **Ferramentas e Tecnologias:** Git e GitHub
+- **Programação:** C# e Java
+- **Desenvolvimento web:** HTML, CSS e JavaScript
+- **Testes automatizados:** Selenium WebDriver, JUnit e Maven (exercícios acadêmicos)
+- **Versionamento:** Git e GitHub
 
-*Conhecimentos desenvolvidos durante a formação acadêmica e em constante aperfeiçoamento.*
+Essas tecnologias fazem parte da minha formação e dos exercícios disponíveis neste perfil; sigo desenvolvendo experiência prática com elas.
 
-## Projetos e Estudos
+## Projetos e estudos selecionados
 
-Este perfil reúne projetos acadêmicos, atividades práticas e estudos realizados ao longo da minha formação em Tecnologia da Informação.
+| Repositório | Conteúdo |
+| --- | --- |
+| [Testes web com Selenium](https://github.com/giihbodnar/selenium-testes-web) | Exercícios Java de automação de navegação e cadastro com Selenium e JUnit. |
+| [Teste GameMania](https://github.com/giihbodnar/selenium-gamemania) | Exercício de teste automatizado de navegação no site GameMania. |
+| [Projetos SENAI](https://github.com/giihbodnar/senai-projetos) | Atividades e trabalhos desenvolvidos durante os estudos no SENAI. |
+| [Exercícios SENAI](https://github.com/giihbodnar/senai-exercicios) | Exercícios e práticas de programação realizados na formação. |
+| [Versionamento com Git](https://github.com/giihbodnar/git-versionamento) | Registros de estudos sobre versionamento e colaboração. |
+| [Anotações de programação](https://github.com/giihbodnar/anotacoes-programacao) | Anotações originais sobre HTML, CSS e p5.js. |
+| [Certificados](https://github.com/giihbodnar/certificados) | Certificados de cursos e formações complementares. |
 
-Os repositórios têm como objetivo documentar minha evolução técnica, apresentar os conhecimentos adquiridos e demonstrar sua aplicação no desenvolvimento de soluções.
+## Objetivo profissional
 
-## Objetivo Profissional
+Quero construir minha trajetória profissional em Tecnologia da Informação, ampliar minha experiência prática em desenvolvimento de software e participar de projetos nos quais possa aprender, colaborar e aplicar os conhecimentos adquiridos.
 
-Construir uma trajetória profissional na área de Tecnologia da Informação, explorando diferentes possibilidades de atuação e ampliando continuamente meus conhecimentos técnicos e práticos.
+---
 
-Busco desenvolver novas competências, contribuir para projetos e soluções tecnológicas e adquirir experiências que favoreçam meu crescimento e desenvolvimento profissional.
+*Os repositórios incluem trabalhos de diferentes etapas da minha formação. Alguns exercícios dependem de ambientes e ferramentas utilizados na época em que foram desenvolvidos.*
