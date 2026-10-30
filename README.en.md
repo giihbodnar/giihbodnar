@@ -11,7 +11,7 @@ My academic background is focused on Information Technology, building upon the k
 ## Education
 
 - **Systems Analysis and Development** — Centro Universitário Uniftec | In progress
-- **IT Technician** — Technical education integrated with high school | Completed
+- **IT Technician** — QI | Completed
 
 ## Technical Knowledge
 
